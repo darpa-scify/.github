@@ -3,13 +3,6 @@
 ### Useful Resources
 💬 Slack Team: [darpa-scify.slack.com](https://darpa-scify.slack.com)
 
-👩‍💻 Project Manangement (only visible to members):
-- [Kickoff meeting tasks](https://github.com/orgs/darpa-scify/projects/1)
-- [All projects](https://github.com/darpa-scify/.github/projects?query=is%3Aopen)
-
-
-<!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
